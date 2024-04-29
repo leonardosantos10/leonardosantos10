@@ -10,7 +10,7 @@ Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habi
 <br/>
 <p>
 <a href="https://www.linkedin.com/in/leonardo-batistas/">
-Meu Linkedin<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Meu Linkedin:
 </a>
 <br/>
 
