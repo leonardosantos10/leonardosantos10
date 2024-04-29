@@ -1,16 +1,18 @@
-### Hi there 👋
+###   hi There!😁
 
-<!--
-**leonardosantos10/leonardosantos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu Sou o Leonardo ,Estudante em Desenvolvimento de Sistemas apaixonado por transformar ideias em código. Como programador front-end, meu foco é criar experiências digitais cativantes e funcionais. Com uma forte Base de conhecimentos, e Desenvolvendo Projetos com:
+<br>
+<br>
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo"/>
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
+Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades e para enfrentar novos  desafios do desenvolvimento web moderno. aqui está o Repositório dos meus projetos, Estou Pronto para enfrentar novos desafios, absorver conhecimentos e prosperar em um ambiente aonde a inovação e a excelência são valorizados! 🚀
+  
+Meu Linkedin:
+<br> <a href="https://www.linkedin.com/in/leonardo-batistas/">
+- <img align="left" alt="linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![leonardo stats](https://github-readme-stats.vercel.app/api?username=leonardosantos10)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantos10)](https://github.com/anuraghazra/github-readme-stats)
