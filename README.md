@@ -7,12 +7,13 @@ Eu Sou o Leonardo ,Estudante em Desenvolvimento de Sistemas apaixonado por trans
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades e para enfrentar novos  desafios do desenvolvimento web moderno. aqui está o Repositório dos meus projetos, Estou Pronto para enfrentar novos desafios, absorver conhecimentos e prosperar em um ambiente aonde a inovação e a excelência são valorizados! 🚀
-  
+<p>
 Meu Linkedin:
 <br> <a href="https://www.linkedin.com/in/leonardo-batistas/">
-- <img align="left" alt="linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+- <img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <a>
 
 [![leonardo stats](https://github-readme-stats.vercel.app/api?username=leonardosantos10)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantos10)](https://github.com/anuraghazra/github-readme-stats)
+</p>
