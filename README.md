@@ -7,9 +7,6 @@ Eu Sou o Leonardo ,Estudante em Desenvolvimento de Sistemas apaixonado por trans
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
 
-Link do Meu Portfólio: https://leonardosantos10.github.io/Portfolio2-oficial/
-<br>
-<br>
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades e para enfrentar novos  desafios do desenvolvimento web moderno. aqui está o Repositório dos meus projetos, Estou Pronto para enfrentar novos desafios, absorver conhecimentos e prosperar em um ambiente aonde a inovação e a excelência são valorizados! 🚀
 <br/>
 
