@@ -4,11 +4,11 @@ Eu Sou o Leonardo ,Estudante em Desenvolvimento de Sistemas apaixonado por trans
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo" width= "70px"/>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo" width= "70px"/>
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"width= "70px"/>
+- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width= "70px"/>
+- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width= "70px"/>
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width= "70px"/>
 
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades e para enfrentar novos  desafios do desenvolvimento web moderno. aqui está o Repositório dos meus projetos, Estou Pronto para enfrentar novos desafios, absorver conhecimentos e prosperar em um ambiente aonde a inovação e a excelência são valorizados! 🚀
 <br/>
