@@ -11,7 +11,7 @@ Eu Sou o Leonardo,cursando análise e  Desenvolvimento de Sistemas, apaixonado p
 - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width= "90px"/>
 <br>
 <br>
-<h1>Linkd do meu Portfólio: <a>https://meuportfolioleonardo.netlify.app/</a></h1>  
+<h1>Linkd do meu Portfólio: <a href="https://meuportfolioleonardo.netlify.app/"></a></h1>  
 
 
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades e para enfrentar novos  desafios do desenvolvimento web moderno. aqui está o Repositório dos meus projetos, Estou Pronto para enfrentar novos desafios, absorver conhecimentos e prosperar em um ambiente aonde a inovação e a excelência são valorizados! 🚀
