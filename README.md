@@ -10,8 +10,7 @@ Eu Sou o Leonardo,cursando análise e  Desenvolvimento de Sistemas, apaixonado p
 - <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width= "90px"/>
 - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width= "90px"/>
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width= "90px"/>
-
-
+- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width= "90px"/>
 <br>
 <br>
 
