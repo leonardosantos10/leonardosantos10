@@ -1,6 +1,8 @@
 ###   hi There!😁
 
 Eu Sou o Leonardo,cursando análise e  Desenvolvimento de Sistemas, apaixonado por transformar ideias em código. Como programador front-end, meu foco é criar experiências digitais cativantes e funcionais. Com uma forte Base de conhecimentos, e Desenvolvendo Projetos com:
+
+meu portfolio: 
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo" width= "70px"/>
