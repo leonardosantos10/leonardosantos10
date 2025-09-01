@@ -1,6 +1,8 @@
 ###   hi There!😁
 
-Eu Sou o Leonardo,cursando análise e  Desenvolvimento de Sistemas, apaixonado por transformar ideias em código. Como programador front-end, meu foco é criar experiências digitais cativantes e funcionais. Com uma forte Base de conhecimentos, e Desenvolvendo Projetos com:
+Eu Sou o Leonardo,Responsável pelo desenvolvimento e manutenção de interfaces web responsivas e interativas, garantindo uma experiência de usuário intuitiva e eficiente. Utilizando a seguintes tecnologias:
+
+como HTML, CSS , JAVASCRIPT, Typescript, React.js e Angular criando componentes reutilizáveis e otimizados. Trabalha em colaboração com designers e back-end developers para integrar APIs e assegurar a usabilidade, acessibilidade e performance das aplicações. Atua na resolução de bugs, testes de interface e implementação de boas práticas de desenvolvimento.
 
 
 <br>
@@ -18,10 +20,6 @@ Eu Sou o Leonardo,cursando análise e  Desenvolvimento de Sistemas, apaixonado p
  </div>
 <br>
 <br>
-
-
-
-Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades e para enfrentar novos  desafios do desenvolvimento web moderno. aqui está o Repositório dos meus projetos, Estou Pronto para enfrentar novos desafios, absorver conhecimentos e prosperar em um ambiente aonde a inovação e a excelência são valorizados! 🚀
 <br/>
 
 <p>
