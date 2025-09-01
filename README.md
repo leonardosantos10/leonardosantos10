@@ -1,6 +1,6 @@
 ###   hi There!😁
 
-Eu Sou o Leonardo,Responsável pelo desenvolvimento e manutenção de interfaces web responsivas e interativas, garantindo uma experiência de usuário intuitiva e eficiente. Utilizando a seguintes tecnologias:
+Eu meu nome é  Leonardo sou um desenvolvedor de software Full-stack , Responsável pelo desenvolvimento e manutenção de interfaces web responsivas e interativas, garantindo uma experiência de usuário intuitiva e eficiente. Utilizando a seguintes tecnologias:
 
 HTML, CSS , JAVASCRIPT, Typescript, React.js e Angular criando componentes reutilizáveis e otimizados. Trabalha em colaboração com designers e back-end developers para integrar APIs e assegurar a usabilidade, acessibilidade e performance das aplicações. Atua na resolução de bugs, testes de interface e implementação de boas práticas de desenvolvimento.
 
