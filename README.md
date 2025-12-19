@@ -7,9 +7,8 @@ HTML, CSS , JAVASCRIPT, Typescript, React.js e Angular criando componentes reuti
 <br>
 <br>
 <div>
- <img src="https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev"/>
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
- 
+ <img src="https://skillicons.dev/icons?i=html,css,js"/>
+
  </div>
 <br>
 <br>
