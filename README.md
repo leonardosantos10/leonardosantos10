@@ -7,7 +7,7 @@ HTML, CSS , JAVASCRIPT, Typescript, React.js e Angular criando componentes reuti
 <br>
 <br>
 <div>
- <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nestjs,vite,vue,nuxtjs,jquery,nodejs,express,prisma"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nestjs,vite,vue,nuxtjs,jquery,nodejs,express,prisma,yarn"/>
 
  </div>
 <br>
