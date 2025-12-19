@@ -16,7 +16,8 @@ HTML, CSS , JAVASCRIPT, Typescript, React.js e Angular criando componentes reuti
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width= "90px"/>
  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width= "90px"/>
  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" width= "90px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ 
  </div>
 <br>
 <br>
