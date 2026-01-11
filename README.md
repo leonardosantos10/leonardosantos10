@@ -11,6 +11,6 @@ HTML, CSS , JAVASCRIPT, Typescript, React.js e Angular criando componentes reuti
 [![leonardo stats](https://github-readme-stats.vercel.app/api?username=leonardosantos10)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantos10)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>Meu Portfólio</h1>
+<h2>Meu Portfólio</h2>[🔗 Acesse o site aqui](https://leonardosantos10.github.io/Portfolio/)
 
-[🔗 Acesse o site aqui](https://leonardosantos10.github.io/Portfolio/)
+
