@@ -13,6 +13,6 @@ HTML, CSS , JAVASCRIPT, Typescript, React.js e Angular criando componentes reuti
 
 
 <h2>Meu Portfólio</h2>
-<a href="https://leonardosantos10.github.io/Portfolio/" target="_blank">
+<a href="https://portfolio-developer-leonardo.netlify.app/" target="_blank">
   🔗 Acesse o site aqui
 </a>
